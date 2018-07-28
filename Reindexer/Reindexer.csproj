@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="LibLog" Version="5.0.2" />
+    <PackageReference Include="Sprache" Version="2.1.2" />
+    <PackageReference Include="System.Reactive" Version="4.0.0" />
+  </ItemGroup>
+</Project>
